@@ -1,7 +1,4 @@
-<style type='text/css'>
-    u{ margin-left: 30px; text-decoration: none; font-weight: 700; }
-        u:before{ content: "\039e\00a0\00a0"; }
-</style>
+<link href="style.css" rel="stylesheet"></link>
 
 
 
@@ -15,7 +12,7 @@
 [Diapason Vol. 3 (TEASER)]: https://www.youtube.com/watch?v=cDsCOyxXH_Q
 [Diapason Vol. 3]: https://www.youtube.com/
 
-<div style="text-align: center; letter-spacing: 10px;font-family: 'Lucida Console';font-size: 2em">DIAPASON</div>
+# <div style="text-align: center; letter-spacing: 10px;font-family: 'Lucida Console';font-size: 2em">DIAPASON</div>
 
 ## <div style="border: none; margin: 60px 0 20px;text-align: center;">No Man's Sky in-game Music Project</div>
 
