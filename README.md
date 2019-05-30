@@ -1,4 +1,4 @@
-<link href="style.css" rel="stylesheet"></link>
+<link href="https://github.com/lupastance/diapason/blob/master/style.css" rel="stylesheet"></link>
 
 
 
