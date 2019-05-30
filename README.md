@@ -1,4 +1,12 @@
+<style type='text/css'>
+    u{ margin-left: 30px; text-decoration: none; font-weight: 700; }
+        u:before{ content: "\039e\00a0\00a0"; }
+</style>
+
+
+
 [@mevoyalagua]: https://twitter.com/mevoyalagua
+[@ArtsyTraveller]: https://twitter.com/ArtsyTraveller
 [YouTube channel]: https://www.youtube.com/channel/UCJ3RtT1jYFfiDVekhw_VtGQ
 
 [Diapason Vol. 1]: https://www.youtube.com/watch?v=sRa_apJZ-lQ
@@ -7,8 +15,9 @@
 [Diapason Vol. 3 (TEASER)]: https://www.youtube.com/watch?v=cDsCOyxXH_Q
 [Diapason Vol. 3]: https://www.youtube.com/
 
-# DIAPASON
-## No Man's Sky in-game Music Project
+# <div style="text-align: center; letter-spacing: 10px;font-family: 'Lucida Console';font-size: 2em">DIAPASON</div>
+
+## <div style="border: none; margin: 60px 0 20px;text-align: center;">No Man's Sky in-game Music Project</div>
 
 This is a mixed in-game music series of No Man's Sky compossed by 3 volumes where there are different tracks compossed by the math-rock and post-rock band 65daysofstatic from Sheiffield, UK.
 
@@ -18,59 +27,59 @@ What you will find inside this collection is a composition about songs played pr
 
 Diapason Vol.1 and Vol.2 RAW files have analog output sound but Vol.3 is digital output format.
 
-### Vol. 1
+### :musical_keyboard: Vol. 1
 
-    * Original Title: 90 minutes No Man's Sky gameplay music
-    * Link: https://www.youtube.com/watch?v=sRa_apJZ-lQ
-    * Duration: 94 minutes
-    * RAW Files: 4 (PCM format in .wav)
-    * Format: Analog (3.5mm audio cable from TV to MacBook Pro)
-    * Sound properties: MP3 320kbps 32kHz 32-bit
-    * Cover: by Lupa Stance
-    * Release date: April 20th 2017
+<u>Original Title</u>: 90 minutes No Man's Sky gameplay music<br>
+<u>Link</u>: https://www.youtube.com/watch?v=sRa_apJZ-lQ<br>
+<u>Duration</u>: 94 minutes<br>
+<u>RAW Files</u>: 4 (PCM format in .wav)<br>
+<u>Format</u>: Analog (3.5mm audio cable from TV to MacBook Pro)<br>
+<u>Properties</u>: MP3 320kbps 32kHz 32-bit<br>
+<u>Cover</u>: [@mevoyalagua]<br>
+<u>Release date</u>: April 20th 2017
 
-### [ TEASER ] Vol.2
+### :musical_keyboard: [ TEASER ] Vol.2
 
-    * Original Title: No Man's Sky music gameplay Vol.2 teaser
-    * Link: https://www.youtube.com/watch?v=IpnDCHksejc
-    * Duration: 6 minutes
-    * RAW Files: 1 (PCM format in .wav)
-    * Format: Analog (3.5mm audio cable from TV to MacBook Pro)
-    * Sound properties: MP3 320kbps 32kHz 32-bit
-    * Cover: by Lupa Stance
-    * Release date: December 5th 2017
+<u>Original Title</u>: No Man's Sky music gameplay Vol.2 teaser<br>
+<u>Link</u>: https://www.youtube.com/watch?v=IpnDCHksejc<br>
+<u>Duration</u>: 6 minutes<br>
+<u>RAW Files</u>: 1 (PCM format in .wav)<br>
+<u>Format</u>: Analog (3.5mm audio cable from TV to MacBook Pro)<br>
+<u>Properties</u>: MP3 320kbps 32kHz 32-bit<br>
+<u>Cover</u>: [@mevoyalagua]<br>
+<u>Release date</u>: December 5th 2017
 
-### Vol.2
+### :musical_keyboard: Vol.2
 
-    * Original Title: 114 minutes No Man's Sky gameplay music
-    * Link: https://www.youtube.com/watch?v=r-TyT3b71M0
-    * Duration: ~ 115 minutes
-    * RAW Files: 6 (PCM format in .wav)
-    * Format: Analog (3.5mm audio cable from TV to MacBook Pro)
-    * Sound properties: MP3 320kbps 32kHz 32-bit
-    * Cover: by Lupa Stance
-    * Release date: April 21th 2018
+<u>Original Title</u>: 114 minutes No Man's Sky gameplay music<br>
+<u>Link</u>: https://www.youtube.com/watch?v=r-TyT3b71M0<br>
+<u>Duration</u>: ~ 115 minutes<br>
+<u>RAW Files</u>: 6 (PCM format in .wav)<br>
+<u>Format</u>: Analog (3.5mm audio cable from TV to MacBook Pro)<br>
+<u>Properties</u>: MP3 320kbps 32kHz 32-bit<br>
+<u>Cover</u>: [@mevoyalagua]<br>
+<u>Release date</u>: April 21th 2018
 
-### [ TEASER ] Vol.3
+### :musical_keyboard: [ TEASER ] Vol.3
 
-    * Original Title: [ TEASER ] No Man's Sky Vol. 3 gameplay music
-    * Link: https://www.youtube.com/watch?v=cDsCOyxXH_Q
-    * Duration: ~ 30 minutes
-    * RAW Files: 1 (PCM format in .wav)
-    * Format: Analog (3.5mm audio cable from TV to MacBook Pro)
-    * Sound properties: MP3 320kbps 32kHz 32-bit
-    * Cover: by Lupa Stance
-    * Release date: April 21th 2018
+<u>Original Title</u>: [ TEASER ] No Man's Sky Vol. 3 gameplay music<br>
+<u>Link</u>: https://www.youtube.com/watch?v=cDsCOyxXH_Q<br>
+<u>Duration</u>: ~ 30 minutes<br>
+<u>RAW Files</u>: 1 (PCM format in .wav)<br>
+<u>Format</u>: Analog (3.5mm audio cable from TV to MacBook Pro)<br>
+<u>Properties</u>: MP3 320kbps 32kHz 32-bit<br>
+<u>Cover</u>: [@mevoyalagua]<br>
+<u>Release date</u>: April 21th 2018
 
-### Vol.3
+### :musical_keyboard: Vol.3
 
-    * Original Title: ~ minutes No Man's Sky gameplay music
-    * Link: ~ 
-    * Duration: ~ minutes
-    * RAW Files: ~ 20 (PCM format in .wav)
-    * Format: Digital output (directly from PS4 to MacBook Pro)
-    * Sound properties: MP3 320kbps 32kHz 32-bit
-    * Cover: by @ArtsyTraveller -> https://twitter.com/ArtsyTraveller
-    * Release date: ~ 2019
+<u>Original Title</u>: ~ minutes No Man's Sky gameplay music<br>
+<u>Link</u>: ~ <br>
+<u>Duration</u>: ~ minutes<br>
+<u>RAW Files</u>: ~ 20 (PCM format in .wav)<br>
+<u>Format</u>: Digital output (directly from PS4 to MacBook Pro)<br>
+<u>Properties</u>: MP3 320kbps 32kHz 32-bit<br>
+<u>Cover</u>: by [@ArtsyTraveller]<br>
+<u>Release date</u>: ~ 2019
 
 For more information please visit the official Twitter account for this project [@mevoyalagua] and for new mixes subscribe to the official [YouTube channel]
