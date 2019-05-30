@@ -24,7 +24,7 @@ Diapason Vol.1 and Vol.2 RAW files have analog output sound but Vol.3 is digital
 ### :musical_keyboard: Vol. 1
 
 - Original Title: 90 minutes No Man's Sky gameplay music<br>
-- Link: https://www.youtube.com/watch?v=sRa_apJZ-lQ<br>
+- Link: [Diapason Vol. 1]<br>
 - Duration: 94 minutes<br>
 - RAW Files: 4 (PCM format in .wav)<br>
 - Format: Analog (3.5mm audio cable from TV to MacBook Pro)<br>
@@ -35,7 +35,7 @@ Diapason Vol.1 and Vol.2 RAW files have analog output sound but Vol.3 is digital
 ### :musical_keyboard: [ TEASER ] Vol.2
 
 - Original Title: No Man's Sky music gameplay Vol.2 teaser<br>
-- Link: https://www.youtube.com/watch?v=IpnDCHksejc<br>
+- Link: [Diapason Vol. 2 (TEASER)]<br>
 - Duration: 6 minutes<br>
 - RAW Files: 1 (PCM format in .wav)<br>
 - Format: Analog (3.5mm audio cable from TV to MacBook Pro)<br>
@@ -46,7 +46,7 @@ Diapason Vol.1 and Vol.2 RAW files have analog output sound but Vol.3 is digital
 ### :musical_keyboard: Vol.2
 
 - Original Title: 114 minutes No Man's Sky gameplay music<br>
-- Link: https://www.youtube.com/watch?v=r-TyT3b71M0<br>
+- Link: [Diapason Vol. 2]<br>
 - Duration: ~ 115 minutes<br>
 - RAW Files: 6 (PCM format in .wav)<br>
 - Format: Analog (3.5mm audio cable from TV to MacBook Pro)<br>
@@ -57,7 +57,7 @@ Diapason Vol.1 and Vol.2 RAW files have analog output sound but Vol.3 is digital
 ### :musical_keyboard: [ TEASER ] Vol.3
 
 - Original Title: [ TEASER ] No Man's Sky Vol. 3 gameplay music<br>
-- Link: https://www.youtube.com/watch?v=cDsCOyxXH_Q<br>
+- Link: [Diapason Vol. 3 (TEASER)]<br>
 - Duration: ~ 30 minutes<br>
 - RAW Files: 1 (PCM format in .wav)<br>
 - Format: Analog (3.5mm audio cable from TV to MacBook Pro)<br>
