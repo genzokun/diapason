@@ -67,13 +67,13 @@ Diapason Vol.1 and Vol.2 RAW files have analog output sound but Vol.3 is digital
 
 ### :musical_keyboard: Vol.3
 
-- Original Title: ~ minutes No Man's Sky gameplay music<br>
-- Link: ~ <br>
-- Duration: ~ minutes<br>
+- Original Title: 131 minutes No Man's Sky gameplay music<br>
+- Link: https://youtu.be/liFTeuoBDO4 <br>
+- Duration: ~ 131 minutes<br>
 - RAW Files: ~ 20 (PCM format in .wav)<br>
 - Format: Digital output (directly from PS4 to MacBook Pro)<br>
 - Properties: MP3 320kbps 32kHz 32-bit<br>
 - Cover: by [@ArtsyTraveller]<br>
-- Release date: ~ 2019
+- Release date: 17/07/2019
 
 For more information please visit the official Twitter account for this project [@mevoyalagua] and for new mixes subscribe to the official [YouTube channel]
